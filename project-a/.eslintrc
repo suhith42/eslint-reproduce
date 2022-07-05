@@ -1,0 +1,6 @@
+{
+    "extends":[
+        "../linter/node_modules/eslint-config-standard/.eslintrc.json"
+    ]
+
+}

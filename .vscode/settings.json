@@ -1,0 +1,9 @@
+{
+    "eslint.nodePath": "./linter/node_modules",
+    "eslint.workingDirectories":[
+        {
+            "directory":"./linter",
+            "changeProcessCWD": true
+        }
+    ]
+}
